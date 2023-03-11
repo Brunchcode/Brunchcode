@@ -6,12 +6,13 @@ Web Developer, Data Analyst, and Machine Learning Engineer
 
 Proactive and Innovative SCADA Data Analyst with Expertise in Industrial Automation, Electrical, Instrumentation, and Control. Proficient in PLC Programming, Machine Learning, and Data Science to Optimize Manufacturing, FMCG, and Oil & Gas Systems. Skilled in Big Data Processing, AWS Services, and Data Scripting Languages. Passionate about Creative Problem-Solving and Collaborating with Cross-Functional Teams to Deliver Scalable Machine Learning Projects that Enhance Customer Satisfaction. Also, a Web Developer with 2 years of experience in developing responsive and user-friendly websites. Proficient in HTML, CSS, JavaScript, and popular web development frameworks such as React and Vue.js. Skilled in designing and developing web applications from scratch and integrating third-party APIs. Passionate about staying up-to-date with emerging web technologies and incorporating them into projects to create engaging user experiences. Collaborative and capable of working independently, with a track record of delivering high-quality code within tight deadlines. Always eager to learn and grow as a developer.
 
-* 🌍  I'm based in Manchester, United Kingdom
-* ✉️  You can contact me at [anthony.a.eze@gmail.com](mailto:anthony.a.eze@gmail.com)
-* 🧠  I'm learning Machine Learning Operations (MLOps), Deep Learning, Natural Language Processing (NLP), AutoML, Data Ethics and Governance
-* 🤝  I'm open to collaborating on Developing and implementing machine learning models for predictive analytics, Creating data visualisation and dashboards for business intelligence, Conducting exploratory data analysis and feature engineering, Developing recommendation engines and personalised content delivery systems, Applying deep learning techniques for image and video recognition, and Designing and developing responsive and user-friendly websites and web applications
+* 🌍  I'm based in Manchester, United Kingdom
+* ✉️  You can contact me at [anthony.a.eze@gmail.com](mailto:anthony.a.eze@gmail.com)
+* 🧠  I'm learning Machine Learning Operations (MLOps), Deep Learning, Natural Language Processing (NLP), AutoML, Data Ethics and Governance
+* 🤝  I'm open to collaborating on Developing and implementing machine learning models for predictive analytics, Creating data visualisation and dashboards for business intelligence, Conducting exploratory data analysis and feature engineering, Developing recommendation engines and personalised content delivery systems, Applying deep learning techniques for image and video recognition, and Designing and developing responsive and user-friendly websites and web applications
 
 ### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -39,9 +40,11 @@ Proactive and Innovative SCADA Data Analyst with Expertise in Industrial Automat
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Brunchcode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/anthony-eze/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@anthony.eze.designs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Ant_oney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
